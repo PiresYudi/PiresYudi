@@ -82,8 +82,8 @@ Me chamo Yudi Mariano Pires, tenho 19 anos e sou natural de São Paulo. Atualmen
 
 ### 📊 Estatísticas
 
-<picture> 
-    <source media = "(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piresyudi/piresyudi/output/pacman-contribution-graph-dark.svg">
-    <source media = "(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piresyudi/PiresYudi/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/piresyudi/piresyudi/output/pacman-contribution-graph.svg">
-</pictures>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piresyudi/piresyudi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piresyudi/piresyudi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/piresyudi/piresyudi/output/pacman-contribution-graph.svg">
+</picture>
