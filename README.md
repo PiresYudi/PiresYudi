@@ -82,7 +82,7 @@ Me chamo Yudi Mariano Pires, tenho 19 anos e sou natural de São Paulo. Atualmen
 ---
 
 
-## 📝 Estudos 
+### 📝 Estudos 
 
 |     |Cursos | Status |
 |:---:|:---|:---:|
